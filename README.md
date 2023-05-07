@@ -1,1 +1,3 @@
-# NodeJS-Course
+# NodeJS Course
+
+Course from Thapa Technical
