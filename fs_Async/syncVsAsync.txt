@@ -1,0 +1,3 @@
+Synchronous: One request at a time. Fulfill the first one then take next request.
+
+Asynchronous: All a time. It uses callback function.

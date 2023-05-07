@@ -1,0 +1,15 @@
+{
+  "name": "npmmodules",
+  "version": "1.0.0",
+  "description": "Mooazam Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mooazam",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "validator": "^13.9.0"
+  }
+}
